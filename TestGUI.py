@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*
 
 '''
-# Pyhton GUI V0.1
+# Pyhton GUI V0.1.1
 # date = 2018.09.16
 # author = zbh
 '''
